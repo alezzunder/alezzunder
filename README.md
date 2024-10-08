@@ -14,11 +14,10 @@ Feel free to explore my projects and connect with me!</h4>
 
 <p align="left"> 
   &emsp; 
-  <a href="https://github.com/alezzunder/" target="_blank"> 
-    <p>Building a house</p>
-  </a> 
-
-  
+<label >Creating a house</label> 
+   <a href="https://github.com/alezzunder/" target="_blank">
+    <img width="90" alt="Python" src="https://cdn.worldvectorlogo.com/logos/python-3.svg">
+  </a>
 
 </p>
 
