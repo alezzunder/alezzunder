@@ -10,7 +10,17 @@ Alongside my tech background, I've had a distinguished career as a musician, whi
 Feel free to explore my projects and connect with me!</h4>
 <br>
 
+## My Proyects
 
+<p align="left"> 
+  &emsp; 
+  <a href="https://github.com/alezzunder/" target="_blank"> 
+    <p>Building a house</p>
+  </a> 
+
+  
+
+</p>
 
 ## My Skills
 
