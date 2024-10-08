@@ -1,6 +1,6 @@
-<h1 align="center">Welcome! I'm Alexander Laicovsky <img src="https://media.tenor.com/UzYPXIhne6cAAAAi/emoji-mate-mate.gif" width="100"></h1>
+<h1 align="center">Hi, I'm Alexander!   <img src="https://media.tenor.com/UzYPXIhne6cAAAAi/emoji-mate-mate.gif" width="100"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Full+Stack+Web+Developer;Sound%20Technician;Always%20learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Analyst+Student;Full+Stack+Web+Developer;Sound%20Technician;Always%20learning&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm an aspiring IT professional in the final stages of my second degree, passionate about solving problems and constantly learning new skills. My academic journey has given me a solid foundation in technology, and I'm eager to apply and expand my knowledge through real-world projects. 
@@ -12,13 +12,12 @@ Feel free to explore my projects and connect with me!</h4>
 
 ## My Proyects
 
-  &emsp; 
 - [Creating a house](https://github.com/alezzunder/)
 
 
 ## My Skills
 
-### ⚙️ BACKEND
+#### ⚙️ BACKEND
 
 <p align="left"> 
   &emsp; 
@@ -44,7 +43,7 @@ Feel free to explore my projects and connect with me!</h4>
 
 </p>
 
-### 🎯 FRONTEND
+#### 🎯 FRONTEND
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -65,7 +64,7 @@ Feel free to explore my projects and connect with me!</h4>
   </a>
 </p>
 
-### ☁️ DATABASE & CLOUD HOSTING
+#### ☁️ DATABASE & CLOUD HOSTING
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" width="30" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg"></a>
@@ -85,8 +84,7 @@ Feel free to explore my projects and connect with me!</h4>
 
 
 
-<br/>
-
+<!--
 ##  STATS (Expand to view) 
 
 
@@ -102,7 +100,7 @@ Feel free to explore my projects and connect with me!</h4>
   </p>
 </details>
 
-
+-->
 
 
 <br/>
