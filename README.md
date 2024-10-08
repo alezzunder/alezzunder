@@ -12,14 +12,9 @@ Feel free to explore my projects and connect with me!</h4>
 
 ## My Proyects
 
-<p align="left"> 
   &emsp; 
-<label >Creating a house</label> 
-   <a href="https://github.com/alezzunder/" target="_blank">
-    <img width="90" alt="Python" src="https://cdn.worldvectorlogo.com/logos/python-3.svg">
-  </a>
+- [Creating a house](https://github.com/alezzunder/)
 
-</p>
 
 ## My Skills
 
