@@ -12,7 +12,7 @@ Feel free to explore my projects and connect with me!</h4>
 
 ## My Proyects
 
-🚼 [BabyTracker ](https://github.com/alezzunder/babytracker)
+-  [BabyTracker 🚼](https://github.com/alezzunder/babytracker)
 
 
 ## My Skills
