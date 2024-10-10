@@ -10,7 +10,7 @@ Alongside my tech background, I've had a distinguished career as a musician, whi
 Feel free to explore my projects and connect with me!</h4>
 <br>
 
-## My Proyects
+## My Projects
 
 -  [BabyTracker 🚼](https://github.com/alezzunder/babytracker)
 
