@@ -13,6 +13,8 @@ Feel free to explore my projects and connect with me!</h4>
 ## My Projects
 
 -  [BabyTracker 🚼](https://github.com/alezzunder/babytracker)
+-  [Rolldice 🎲](https://github.com/alezzunder/rolldice)
+
 
 
 ## My Skills
