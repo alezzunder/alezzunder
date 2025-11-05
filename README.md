@@ -3,9 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Analyst+Student;Full+Stack+Web+Developer;Sound%20Technician;Always%20learning&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I'm an aspiring IT professional in the final stages of my second degree, passionate about solving problems and constantly learning new skills. My academic journey has given me a solid foundation in technology, and I'm eager to apply and expand my knowledge through real-world projects. 
-	
-Alongside my tech background, I've had a distinguished career as a musician, which has sharpened my creativity, discipline, and teamwork—qualities I bring into my IT work.
+<h4 align="center">I'm an IT professional with nearly two years of experience working as a full-stack developer, across different environments and technologies. My work has involved building and maintaining applications using PHP, Java, JavaScript, and other tools to create efficient, scalable solutions.
+
+My academic background has provided a strong foundation in technology, and I’m continuously expanding my skills through hands-on projects and collaboration.
 
 Feel free to explore my projects and connect with me!</h4>
 <br>
