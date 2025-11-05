@@ -22,6 +22,10 @@ Feel free to explore my projects and connect with me!</h4>
 #### ⚙️ BACKEND
 
 <p align="left"> 
+	 &emsp; 
+  <a href="https://www.php.net/" target="_blank"> 
+    <img width="40" alt="PHP" src="https://cdn.worldvectorlogo.com/logos/php-6.svg">
+  </a> 
   &emsp; 
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> 
     <img width="40" alt="C#" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
