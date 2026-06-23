@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexander!   <img src="https://media.tenor.com/UzYPXIhne6cAAAAi/emoji-mate-mate.gif" width="100"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Analyst+Student;Full+Stack+Web+Developer;Sound%20Technician;Always%20learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Analyst;Full+Stack+Developer;Always%20learning&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm an IT professional with nearly two years of experience working as a full-stack developer, across different environments and technologies. My work has involved building and maintaining applications using PHP, Java, JavaScript, and other tools to create efficient, scalable solutions.
