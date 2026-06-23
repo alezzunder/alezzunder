@@ -8,13 +8,6 @@
 My academic background has provided a strong foundation in technology, and I’m continuously expanding my skills through hands-on projects and collaboration.
 
 Feel free to explore my projects and connect with me!</h4>
-<br>
-
-## My Projects
-
--  [BabyTracker 🚼](https://github.com/alezzunder/babytracker)
--  [Rolldice 🎲](https://github.com/alezzunder/rolldice)
-
 
 
 ## My Skills
